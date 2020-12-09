@@ -27,6 +27,7 @@ public enum PermissionType {
     USE_EXTERNAL_EMOJIS(0x00040000),
 
     // voice
+    VIEW_CHANNEL(0x00000400),
     CONNECT(0x00100000),
     SPEAK(0x00200000),
     MUTE_MEMBERS(0x00400000),
